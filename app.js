@@ -1,4 +1,4 @@
-/*
+
 let pregunta = prompt("Que desea calcular? -1. Triangulo. -2. Rectangulo -3. Circulo");
 let res = parseInt(pregunta);
 
@@ -25,7 +25,7 @@ switch (res) {
     console.log("nada");
     break;
 }
-*/
+
 
 // Ejercicio 2
 
